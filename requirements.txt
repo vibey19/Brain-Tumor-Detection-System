@@ -1,0 +1,6 @@
+numpy
+opencv-python
+tensorflow
+Pillow
+imutils
+tkinter
